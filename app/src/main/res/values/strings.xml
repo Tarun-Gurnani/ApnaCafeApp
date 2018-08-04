@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="slogan">NO matter where you are : whether you are at home , or in the office - we will find you and we will feed you ,
+        This is also a Offline cashless outlet and here
+You can pay by any transaction app , contactless debit and credit cards. </string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="phone_number">Phone Number</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_sign_in">Verify and Sign In</string>
+    <string name="sign_out">sign out</string>
+</resources>
